@@ -1,0 +1,16 @@
+{
+    "id": 12382,
+    "name": "testing",
+    "author": "testingpublisher",
+    "creators": ["creator1221", "creator9"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=tgjjxuug-dfj",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+            {
+            "user": "vict58",
+            "percent": 100
+        }
+    ]
+}
