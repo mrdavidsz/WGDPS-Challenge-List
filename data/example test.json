@@ -1,0 +1,16 @@
+{
+    "id": 123782132391239238,
+    "name": "example test",
+    "author": "mrdavidss",
+    "creators": ["creator one", "creator 2"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=put-your-yt-link-here",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+            {
+            "user": "biohazard",
+            "percent": 100
+        }
+    ]
+}
