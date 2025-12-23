@@ -1,6 +1,6 @@
 {
     "id": 26609,
-    "name": "Wave 1",
+    "name": "Wave 1 (LEGACY    fsd)",
     "author": "yopp",
     "creators": ["yopp"],
     "verifier": "yopp",
@@ -11,13 +11,11 @@
                 {
             "user": "yopp",
             "percent": 100
-        },
-        {
             "user": "clydie",
             "percent": 100
         },
         {
-            "user": "Biohazard",
+            "user": "biohazard",
             "percent": 100
         }
     ]
