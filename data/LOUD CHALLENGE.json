@@ -9,9 +9,10 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
-            {
-            "user": "Kittyen",
-            "percent": 100
-            },
+        {
+        "user": "Kittyen",
+        "percent": 100
+        },
     ]   
+
 }
